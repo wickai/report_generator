@@ -1,0 +1,13 @@
+
+# .env
+.env
+
+# __pycache__/
+**/__pycache__/
+
+#test
+test_*.ipynb
+test_*.py
+
+# uv related
+uv.lock
